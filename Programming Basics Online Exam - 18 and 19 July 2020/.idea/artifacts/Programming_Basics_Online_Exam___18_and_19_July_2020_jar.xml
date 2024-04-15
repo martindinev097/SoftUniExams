@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Programming Basics Online Exam - 18 and 19 July 2020:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Programming_Basics_Online_Exam___18_and_19_July_2020_jar</output-path>
+    <root id="archive" name="Programming Basics Online Exam - 18 and 19 July 2020.jar">
+      <element id="module-output" name="Programming Basics Online Exam - 18 and 19 July 2020" />
+    </root>
+  </artifact>
+</component>
